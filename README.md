@@ -10,6 +10,9 @@ Everybody needs to have an inspiration or a role model especially the young ones
 •	C# (scripting)
 •	Autodesk 3ds Max (models)
 
+To test the game, please download the whole folder from MediaFire here: 
+https://www.mediafire.com/folder/ofpc6tf2t68ok/OfficerClean_Executable
+
 
 
 
