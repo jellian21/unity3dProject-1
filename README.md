@@ -14,6 +14,8 @@ To test the game, please download the whole folder from MediaFire here:
 
 https://www.mediafire.com/folder/ofpc6tf2t68ok/OfficerClean_Executable
 
+--> then run OfficerClean.exe
+
 
 
 
